@@ -1,0 +1,9 @@
+mkdir ~/week1
+cd ./week1
+cat > ex2.txt
+cd ~
+ls
+mv ./nbench ./notnbench
+ls
+cd ./week1
+history > ex2.txt
