@@ -1,0 +1,1 @@
+Physical adress is the factical hardware adress. Virtual adress is some fake adress which is used for some processes.
