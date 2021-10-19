@@ -1,0 +1,11 @@
+2 7
+1 5
+2 5
+3 5
+4 5
+6 4
+7 5
+8 5
+
+Here we have 7 references, and 5 of them are hits (2, 3, 4, 6 and 7th references).
+Then, we have big number of hits and ratio is equal to 5/2 = 2,5. 
